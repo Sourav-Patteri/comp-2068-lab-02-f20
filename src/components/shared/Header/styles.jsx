@@ -8,8 +8,8 @@ export default {
     margin: 0 auto;
     width: 95%;
     margin-top: 2em;
-    background: #f1c40f;
-    color: #2c3e50;
+    background: #8154fc;
+    color: #e97d4b;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export default {
   Nav: styled.nav`
-    background: #2c3e50;
+    background: #dd88ff;
     display: flex;
     align-items: center;
     height: 60px;
@@ -16,12 +16,13 @@ export default {
         list-style: none;
 
         a {
-          color: #f1c40f;
+          color: #550300;
           text-decoration: none;
           padding: 1em;
+          font-weight: bold;
 
           &:hover {
-            color: #f39c12;
+            color: #f34612;
           }
         }
       }
